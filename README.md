@@ -2,9 +2,9 @@
  
 
 ## Hello World❗❗ :  I'm David Israel <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" style="max-width:100%;">
-- I am Peruvian and I live in Brazil 🌴
+- I'm Peruvian and I live in Brazil 🌴
 - I'm currently looking for an opportunity as a  Web Developer 💻 
-- I am studying analysis and systems development at "Universidade Estácio de Sá" 🎓
+- I'm studying analysis and systems development at "Universidade Estácio de Sá" 🎓
 
 ## ✔️ Connect with me :
 <a href="https://www.linkedin.com/in/david-israel-ortiz/" target="_blank">
