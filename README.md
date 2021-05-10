@@ -1,7 +1,7 @@
 <img src="https://raw.githubusercontent.com/sabbirmollah/sabbirmollah/master/img/deep-into-neural-network.gif" alt="" style="max-width:100%;">
  
 
-## Hello World❗❗ :  I´m David Israel <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" style="max-width:100%;">
+## Hello World❗❗ :  I'm David Israel <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" style="max-width:100%;">
 - I am Peruvian and I live in Brazil 🌴
 - I'm currently looking for an opportunity as a  Web Developer 💻 
 - I am studying analysis and systems development at "Universidade Estácio de Sá" 🎓
