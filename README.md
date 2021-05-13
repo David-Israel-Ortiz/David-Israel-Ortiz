@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/sabbirmollah/sabbirmollah/master/img/deep-into-neural-network.gif" alt="" style="max-width:100%;">
+<img src="https://raw.githubusercontent.com/sabbirmollah/sabbirmollah/master/img/deep-into-neural-network.gif" alt="" style="max-width:80%;">
  
 
 ## Hello World❗❗ I'm David Israel <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" style="max-width:100%;">
